@@ -17,6 +17,11 @@ City of Kalispell, Montana: <br/>
 <br />
 <br />
 
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b>
+- <b>The City of Kalispell (n.d.). City GIS Maps and Apps. Www.Kalispell.com. Retrieved November
+4, 2023, from https://www.kalispell.com/</b>
+
 <!--
  ```diff
 - text in red
